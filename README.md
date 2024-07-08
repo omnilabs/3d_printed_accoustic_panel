@@ -1,5 +1,5 @@
 # 3D Printed Modular Acoustic Panel
-
+![3D Printed accoustic panel](/Pictures/IMG_20231203_182340.jpg)
 ## Author
 Vasil B. Botev
 
